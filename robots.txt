@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /include/
+Disallow: /divers/
+
+Sitemap: https://carteavecopenstreetmap.000webhostapp.com/sitemap.xml
